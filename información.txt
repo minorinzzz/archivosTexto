@@ -1,0 +1,6 @@
+Para esta parte se realizan los cortes en un carton de 120x120, para el armado de cajas
+El tipo 1 es de 8.5x58x12
+El tipo 2 es de 12x43x15
+El tipo 3 es de 12x58x15
+El tipo 4 es de 12x80x15
+El tipo 5 es de 8x25x9
