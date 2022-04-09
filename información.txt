@@ -4,3 +4,4 @@ El tipo 2 es de 12x43x15
 El tipo 3 es de 12x58x15
 El tipo 4 es de 12x80x15
 El tipo 5 es de 8x25x9
+Mas informacion
